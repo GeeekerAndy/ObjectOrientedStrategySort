@@ -1,1 +1,2 @@
-现象对象方法实现排序
+This is a project of Object-Oriented.
+Using two different ways to realize sort strategy.
